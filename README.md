@@ -11,4 +11,4 @@
 :(
 ![Gambar1](gambar/latihan3.png)
 # Latihan 2 Lebih kecil dari 0.5
-![Gambar1](gambar/latihan4.png
+![Gambar1](gambar/latihan4.png)
